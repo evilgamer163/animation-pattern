@@ -1,0 +1,12 @@
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    position: relative;
+    border-radius: 50%;
+}
+
+.btn {
+    position: relative;
+    left: 50%;
+}
